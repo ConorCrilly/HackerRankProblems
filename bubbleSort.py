@@ -1,5 +1,4 @@
 # bubble sort implementation
-# This is a test change
 
 
 def countSwaps(a):
@@ -16,5 +15,3 @@ def countSwaps(a):
 
 
 countSwaps([6, 4, 1])
-
-print('This is a change!')
